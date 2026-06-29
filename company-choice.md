@@ -1,1 +1,5 @@
-
+## Mi idea de agente IA
+**Que Haría?**
+Yo propongo un Agente IA para el filtro y selección automatizada de candidatos ya que ese es el reto principal que tiene la empresa hasta el momento. El trabajo del agente seria analizar automáticamente los CVs recibidos y haría un contraste con los requisitos de las  vacantes publicadas por las empresas. Su función sería ayudar a la empresa a identificar rápidamente a los candidatos máscalificados para el trabajo haciendo que el tiempo que se usa revisando CVs manualmente se reduzca drásticamente y puedan ocuparlo en otras cosas. 
+**Que necesitaría?**
+ El agente necesitaría los requisitos del puesto, los CVs de los profesionistas, además de las instrucciones de como realizar su trabajo con esta información y entrenarlo para el resultado final que estaría dando.
